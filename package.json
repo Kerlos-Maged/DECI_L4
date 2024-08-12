@@ -1,0 +1,28 @@
+{
+  "name": "deci_l4",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "@types/express": "^4.17.21",
+    "express": "^4.19.2",
+    "multer": "^1.4.5-lts.1",
+    "sharp": "^0.33.4"
+  },
+  "devDependencies": {
+    "@types/jasmine": "^5.1.4",
+    "@types/multer": "^1.4.11",
+    "@types/node": "^22.2.0",
+    "eslint": "^9.9.0",
+    "jasmine": "^5.2.0",
+    "prettier": "^3.3.3",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.5.4"
+  }
+}
